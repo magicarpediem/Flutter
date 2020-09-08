@@ -1,0 +1,15 @@
+[
+  {
+	"name" : "First",
+	"description" : "This is the first counter",
+	"index" : 0,
+	"count" : 5
+  },
+
+  {
+	"name" : "Second",
+	"description" : "Second counter here",
+	"index" : 1,
+	"count" : 26
+  }
+]
