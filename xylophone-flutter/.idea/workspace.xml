@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa4ab719-6b27-4f13-85ba-32c17b4f7e00" name="Default Changelist" comment="asfa" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hEPoV9tbfUHUnDejZvl9FVoQd6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dex" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa4ab719-6b27-4f13-85ba-32c17b4f7e00" name="Default Changelist" comment="" />
+      <created>1581957187417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581957187417</updated>
+    </task>
+    <task id="LOCAL-00001" summary="asfa">
+      <created>1581969919680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581969919680</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asfa" />
+    <option name="LAST_COMMIT_MESSAGE" value="asfa" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="315" key="CommitChangelistDialog2" timestamp="1599573457661">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="514" y="315" key="CommitChangelistDialog2/3440.533.1440.900/0.0.3440.1440@0.0.3440.1440" timestamp="1599573457661" />
+    <state x="640" y="478" key="FileChooserDialogImpl" timestamp="1599573596995">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="640" y="478" key="FileChooserDialogImpl/3440.533.1440.900/0.0.3440.1440@0.0.3440.1440" timestamp="1599573596995" />
+  </component>
+</project>
